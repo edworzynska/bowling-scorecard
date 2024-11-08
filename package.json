@@ -1,0 +1,11 @@
+{
+  "name": "weather",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "jest": "^29.7.0",
+    "typescript": "^5"
+  }
+}
