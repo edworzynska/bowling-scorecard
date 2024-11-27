@@ -11,9 +11,9 @@ The __Bowling Scorecard__  application allows users to track their bowling game 
 
 ## The API allows:
 
-Simple game tracking - user adds their consecutive roll records, the program takes care of events such as strikes, spares and 10th frame automatically
-Points calculation at any point of the game
-Generating scorecard at any point of the game
+- Simple game tracking - user adds their consecutive roll records, the program takes care of events such as strikes, spares and 10th frame automatically
+- Points calculation at any point of the game
+- Generating scorecard at any point of the game
 
 ## Key Learnings
 
